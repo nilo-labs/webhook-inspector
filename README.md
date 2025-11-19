@@ -1,4 +1,4 @@
-# 🎣 Webhook Inspector & Event Processor (Monorepo)
+# 🎣 Webhook Inspector & Event Processor
 
 Este é um projeto **Full-Stack (Monorepo)** gerenciado pelo **pnpm** com workspaces, projetado para receber, inspecionar e processar eventos de webhook.
 
