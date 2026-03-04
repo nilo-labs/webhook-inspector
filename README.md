@@ -1,4 +1,4 @@
-# 🎣 Webhook Inspector & Event Processor
+# Webhook Inspector & Event Processor
 
 Este é um projeto **Full-Stack (Monorepo)** gerenciado pelo **pnpm** com workspaces, projetado para receber, inspecionar e processar eventos de webhook.
 
@@ -6,7 +6,7 @@ O projeto consiste em duas partes principais:
 1.  **API (`api`):** Backend que recebe, valida e processa os webhooks.
 2.  **Web (`web`):** Frontend de inspeção para visualizar os payloads de webhook em tempo real.
 
-## 🌟 Destaques & Funcionalidades
+## Destaques & Funcionalidades
 
 * **Arquitetura Monorepo:** Gerenciamento eficiente de código via **pnpm workspaces**.
 * **Serviço de Webhook Inteligente:** Utiliza o Google AI SDK para a função `generate-handler.ts`, permitindo a **geração dinâmica de handlers** para diferentes eventos de webhook.
@@ -17,7 +17,7 @@ O projeto consiste em duas partes principais:
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Este projeto Full-Stack se apoia nas seguintes tecnologias:
 
@@ -41,7 +41,7 @@ Este projeto Full-Stack se apoia nas seguintes tecnologias:
 
 ---
 
-## 🚀 Como Começar
+## Como Começar
 
 ### Pré-requisitos
 
