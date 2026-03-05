@@ -1,5 +1,7 @@
 # Webhook Inspector & Event Processor
 
+[🌍 Read in English](./README.md) | [🇧🇷 Leia em Português](./README-pt.md)
+
 Este é um projeto **Full-Stack (Monorepo)** gerenciado pelo **pnpm** com workspaces, projetado para receber, inspecionar e processar eventos de webhook.
 
 O projeto consiste em duas partes principais:
